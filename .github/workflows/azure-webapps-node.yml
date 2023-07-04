@@ -19,7 +19,7 @@
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "deploy-azure" ]
   workflow_dispatch:
 
 env:
